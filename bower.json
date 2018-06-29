@@ -5,7 +5,7 @@
     "Glauber Funez <glauber.funez@hotmail.com>"
   ],
   "description": "instale via bower a font do google roboto",
-  "main": ["css/icons.css" , "fonts/*"],
+  "main": ["css/main.css" , "fonts/*"],
   "keywords": [
     "fonts",
     "Google",
