@@ -1,0 +1,22 @@
+{
+  "name": "fonts-google-roboto-glauber",
+  "homepage": "https://github.com/GlauberF/fonts-google-roboto-glauber",
+  "authors": [
+    "Glauber Funez <glauber.funez@hotmail.com>"
+  ],
+  "description": "instale via bower a font do google roboto",
+  "main": ["css/icons.css" , "fonts/*"],
+  "keywords": [
+    "fonts",
+    "Google",
+    "fonts-google-roboto-glauber"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
